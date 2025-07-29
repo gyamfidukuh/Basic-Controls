@@ -15,3 +15,5 @@ Serial.print("Potentiometer Value: ");
  delay(200);
 
 }
+
+#This can be applied to make a light dimmer
